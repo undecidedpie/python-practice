@@ -1,0 +1,14 @@
+2020-08-25 08:54:23,805 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-08-25 08:56:56,380 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-25 08:59:33,073 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @164059ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-08-25 08:59:33,153 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.29.v20200521; built: 2020-05-27T11:26:53.365Z; git: 77c232aed8a45c818fd27232278d9f95a021095e; jvm 1.8.0_261-b12
+2020-08-25 08:59:33,168 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-08-25 08:59:33,168 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-08-25 08:59:33,169 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-08-25 08:59:33,189 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7e259f9e{/help,null,AVAILABLE}
+2020-08-25 08:59:33,203 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4fc0516{HTTP/1.1, (http/1.1)}{127.0.0.1:56660}
+2020-08-25 08:59:33,204 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @164190ms
+2020-08-25 08:59:33,204 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2020-08-25 09:22:42,438 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4fc0516{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2020-08-25 09:22:42,438 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2020-08-25 09:22:42,451 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7e259f9e{/help,null,UNAVAILABLE}
